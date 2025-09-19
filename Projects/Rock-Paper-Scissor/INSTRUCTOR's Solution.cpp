@@ -169,7 +169,7 @@ void StartGame()
     } while (PlayAgain == 'Y' || PlayAgain == 'y');
 }
 
-// Main Function
+// Main Function------------------------------------------------------------------------------------------------------------------------------------------------------
 int main()
 {
     srand((unsigned)time(NULL));  // Seed random number generator.
